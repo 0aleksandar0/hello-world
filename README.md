@@ -1,2 +1,2 @@
 # hello-world
-let's change the description
+this is a description of hello world
